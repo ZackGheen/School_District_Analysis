@@ -15,7 +15,11 @@ Thomas High School itself was affected statistically by the removal of the score
 Even after replacing all scores at the 9th grade level Thomas still ranked near the top in the district in the three major academic statistics, being overall the second best performing school. 
 
 replacing all the scores in 9th grade had a predictably bad affect on the 9th grade level stistics in Thomas High school, as they had no statistics to go off of. , 
-scores by school spending were also relatively unaffected by the changes with math percentage, reading percentage, and overall percentage who are passing changing only .00, .80, and .07% resepctively. .
+scores by school spending were also relatively unaffected by the changes with math percentage, reading percentage, and overall percentage who are passing changing only .00, .80, and .07% resepctively. 
+![Screenshot (79)](https://user-images.githubusercontent.com/93295751/143812362-965745ac-fb7c-447e-b17e-545f35c2bab0.png)
+![Screenshot (80)](https://user-images.githubusercontent.com/93295751/143812370-eb47e718-a90c-4cf9-ae51-d67722486549.png)
+
+
 
 ##Summary
  
